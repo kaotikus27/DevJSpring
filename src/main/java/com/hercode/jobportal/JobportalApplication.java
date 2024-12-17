@@ -9,7 +9,7 @@ public class JobportalApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(JobportalApplication.class, args);
 //		nyenye
-		//conflictr arrasise
+		// eto tama to
 	}
 
 }
