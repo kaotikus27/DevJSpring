@@ -10,6 +10,7 @@ public class JobportalApplication {
 		SpringApplication.run(JobportalApplication.class, args);
 //		nyenye
 		// eto tama to
+		//correct
 	}
 
 }
